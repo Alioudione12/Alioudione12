@@ -7,20 +7,6 @@
     <img src="skill1.png" alt="Logo" width="1000" height="350">
   </a>
 
-Skills:
-- SCRUM
-- PYTHON
-- DJANGO REST API
-- REACT
-- REACT NATIVE
-- HTML
-- TAILWINDCSS
-- CSS
-
-Language:
-- French
-- English
-
 
 
 
