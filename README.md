@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### my name is Aliou Dione
 <a href="(https://github.com/Alioudione12/Alioudione12)">
-    <img src="Untitled-1 copy.png" alt="Logo" width="800" height="400">
+    <img src="readme1.png" alt="Logo" width="1000" height="200">
   </a>
 A passionate self-taught full stack application developer from Paris.<br>
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br>
