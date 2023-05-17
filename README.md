@@ -6,7 +6,8 @@ I take great care in the experience, architecture, and code quality of the thing
 
 
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+Skills: 
+- PYTHON / REACT / JS / HTML / CSS
 
 
 
