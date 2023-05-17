@@ -13,6 +13,10 @@ Skills:
 - TAILWINDCSS
 - CSS
 
+Language:
+- French
+- English
+
 
 
 
