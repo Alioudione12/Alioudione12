@@ -4,7 +4,7 @@
     <img src="goo.png" alt="Logo" width="1000" height="180">
   </a>
   <a href="(https://github.com/Alioudione12/Alioudione12)">
-    <img src="compe.png" alt="Logo" width="800" height="300">
+    <img src="compe.png" alt="Logo" width="1000" height="300">
   </a>
   
 ### PROJETS:
