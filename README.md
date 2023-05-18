@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### my name is Aliou Dione
+#### I'm Aliou Dione
 <a href="(https://github.com/Alioudione12/Alioudione12)">
     <img src="goo.png" alt="Logo" width="1000" height="180">
   </a>
