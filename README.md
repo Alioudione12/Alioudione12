@@ -1,7 +1,4 @@
-```bash
-# Hi there 👋
-## I'm Aliou Dione
-```
+
 > [!note]
 > # Hi there 👋
 > 
