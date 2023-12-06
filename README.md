@@ -6,8 +6,9 @@
 - UI & UX Designer
 
 ### Profil Dev
-diplômé en informatique et transformation digitale a paris en France.<br>
-Je suis passionné d’innovation, prêt à relever des défis pour enrichir les évolutions des nouvelles technologies et déterminé à contribuer à des projets futurs.
+diplômé en master informatique et transformation digitale a paris en France.<br>
+Je suis passionné d’innovation, prêt à relever des défis pour enrichir les évolutions des <br>
+nouvelles technologies et déterminé à contribuer à des projets futurs.
 
 ### Technologies and Project management
 - Python
