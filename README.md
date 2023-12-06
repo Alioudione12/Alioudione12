@@ -12,6 +12,7 @@ $${\color{black}UI et\space UX\space Designer\space }$$
 
 > [!important]  
 > Frontend developer.
+> 
 > Full Stack developer.
 > IT project manager.
 > Ui et Ux Desginer
