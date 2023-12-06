@@ -2,7 +2,7 @@
 # Hi there 👋
 ## I'm Aliou Dione
 ```
-$${\color{black}Front \space end \space developer \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{black}Front \space end \space developer \space }$$
 - Front end developer
 - Full stack developer
 - IT project manager
