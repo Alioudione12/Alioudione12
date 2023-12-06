@@ -36,6 +36,10 @@ new technologies and determined to contribute to future projects.
 #### Project management
 - Scrum/agile
 
+#### Languages
+- french
+- English
+
 
 
 
