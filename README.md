@@ -2,7 +2,7 @@
 # Hi there 👋
 ## I'm Aliou Dione
 ```
-> [!n]   
+> [!note]   
 > Frontend developer.
 > 
 > Full Stack developer.
