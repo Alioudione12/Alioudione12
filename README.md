@@ -2,14 +2,6 @@
 # Hi there 👋
 ## I'm Aliou Dione
 ```
-$${\color{black}Front\space end\space developer\space }$$
-
-$${\color{black}Full\space stack \space developer\space }$$
-
-$${\color{black}IT\space project\space manager\space }$$
-
-$${\color{black}UI et\space UX\space Designer\space }$$
-
 > [!important]  
 > Frontend developer.
 > 
