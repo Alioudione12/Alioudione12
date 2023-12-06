@@ -4,13 +4,7 @@
 > 
 > ## I'm Aliou Dione
 > 
-> Software engineer | project management | scrum | mobile app.
-> 
-> Full Stack developer.
-> 
-> IT project manager.
-> 
-> Ui et Ux Desginer
+> Software engineer | Project management | Scrum/agile | Mobile application.
 
 
 > [!important]
