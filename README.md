@@ -33,7 +33,7 @@ new technologies and determined to contribute to future projects.
 - MongoDB
 - API
 - AWS
-and many more ... 
+- and many more ... 
 #### Project management
 - Scrum/agile
 - Trello
