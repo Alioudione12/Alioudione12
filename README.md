@@ -2,7 +2,11 @@
 # Hi there 👋
 ## I'm Aliou Dione
 ```
-> [!note] 
+> [!note]
+> # Hi there 👋
+> 
+> ## I'm Aliou Dione
+> 
 > Frontend developer.
 > 
 > Full Stack developer.
