@@ -14,7 +14,9 @@ $${\color{black}UI et\space UX\space Designer\space }$$
 > Frontend developer.
 > 
 > Full Stack developer.
+> 
 > IT project manager.
+> 
 > Ui et Ux Desginer
 
 ### Profil Dev
