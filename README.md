@@ -10,24 +10,24 @@ diplômé en master informatique et transformation digitale a paris en France.<b
 Je suis passionné d’innovation, prêt à relever des défis pour enrichir les évolutions des <br>
 nouvelles technologies et déterminé à contribuer à des projets futurs.
 
-### Technologies and Project management
+# Programming language and Data Base 
 - Python
 - Javascript
 - C#
-### Libraries
+#### Libraries
 - ReactJS
 - NextJS
 - Express
 - React Native for mobile application
 - TailwindCSS
 - Django
-### Data Base
+#### Data Base
 - PostgreSQ
 - SQL
 - MongoDB
 - API
 - AWS 
-### Project management
+#### Project management
 - Scrum/agile
 
 
