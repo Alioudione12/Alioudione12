@@ -4,7 +4,7 @@
 > 
 > ## I'm Aliou Dione
 > 
-> Frontend developer.
+> Software engineer | project management | scrum | mobile app.
 > 
 > Full Stack developer.
 > 
