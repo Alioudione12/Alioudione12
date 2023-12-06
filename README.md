@@ -3,6 +3,9 @@
 ## I'm Aliou Dione
 ```
 $${\color{black}Front \space end \space developer \space }$$
+$${\color{black}Full \space stack \space developer \space }$$
+$${\color{black}IT \space project \space manager \space }$$
+$${\color{black}UI &  \space UX \space Designer \space }$$
 - Front end developer
 - Full stack developer
 - IT project manager
