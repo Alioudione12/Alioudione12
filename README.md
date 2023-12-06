@@ -32,9 +32,11 @@ new technologies and determined to contribute to future projects.
 - SQL
 - MongoDB
 - API
-- AWS 
+- AWS
+and many more ... 
 #### Project management
 - Scrum/agile
+- Trello
 
 #### Languages
 - french
