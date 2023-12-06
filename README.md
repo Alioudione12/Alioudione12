@@ -10,6 +10,9 @@ $${\color{black}IT\space project\space manager\space }$$
 
 $${\color{black}UI et\space UX\space Designer\space }$$
 
+> [!important]  
+> Crucial information necessary for users to succeed.
+
 ### Profil Dev
 Graduated with a master's degree in IT and digital transformation in Paris, France.<br>
 I am passionate about innovation, ready to take on challenges to enrich the developments of <br>
