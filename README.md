@@ -1,10 +1,11 @@
+```bash
 # Hi there 👋
 ## I'm Aliou Dione
 - Front end developer
 - Full stack developer
 - IT project manager
 - UI & UX Designer
-
+```
 ### Profil Dev
 Graduated with a master's degree in IT and digital transformation in Paris, France.<br>
 I am passionate about innovation, ready to take on challenges to enrich the developments of <br>
