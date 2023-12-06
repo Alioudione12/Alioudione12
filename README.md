@@ -11,7 +11,10 @@ $${\color{black}IT\space project\space manager\space }$$
 $${\color{black}UI et\space UX\space Designer\space }$$
 
 > [!important]  
-> Crucial information necessary for users to succeed.
+> Frontend developer.
+> Full Stack developer.
+> IT project manager.
+> Ui et Ux Desginer
 
 ### Profil Dev
 Graduated with a master's degree in IT and digital transformation in Paris, France.<br>
