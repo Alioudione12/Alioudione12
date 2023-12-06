@@ -6,11 +6,12 @@
 - UI & UX Designer
 
 ### Profil Dev
-diplômé en master informatique et transformation digitale a paris en France.<br>
-Je suis passionné d’innovation, prêt à relever des défis pour enrichir les évolutions des <br>
-nouvelles technologies et déterminé à contribuer à des projets futurs.
+graduated with a master's degree in IT and digital transformation in Paris, France.<br>
+I am passionate about innovation, ready to take on challenges to enrich the developments of <br>
+new technologies and determined to contribute to future projects.
 
-# Programming language and Data Base 
+
+# Programming language and Data Bases 
 - Python
 - Javascript
 - C#
