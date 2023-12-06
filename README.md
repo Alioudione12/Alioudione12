@@ -8,8 +8,9 @@
 ### Profil Dev
 Graduated with a master's degree in IT and digital transformation in Paris, France.<br>
 I am passionate about innovation, ready to take on challenges to enrich the developments of <br>
-new technologies and determined to contribute to future projects.<br> had worked on project like:<br>
+new technologies and determined to contribute to future projects.
 
+<br> had worked on project like:<br>
 - An application that transforms the smartphone into a medical device
 - A solution for simpler, more fluid mobility throughout France
 - E-commmerce interfaces and web finance 
