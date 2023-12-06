@@ -1,7 +1,6 @@
 
 > [!note]
-> ## Hi there 👋
-> ## Hi there 👋, I'm Aliou Dione
+> ### Hi there 👋, I'm Aliou Dione
 > Software engineer | Project management | Scrum/agile | Mobile application.
 
 
