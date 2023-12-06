@@ -7,7 +7,7 @@ $${\color{black}Full\space stack \space developer\space }$$
 $${\color{black}IT\space project\space manager\space }$$
 $${\color{black}UI & \space UX\space Designer\space }$$
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{red}Full \space \color{lightblue}stack \space \color{orange}developer}$$
 
 
 - Front end developer
