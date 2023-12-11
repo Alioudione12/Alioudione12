@@ -26,6 +26,10 @@ new technologies and determined to contribute to future projects.
 - React Native for mobile application
 - TailwindCSS
 - Django
+  #### styling
+  - CSS
+  - Tailwind CSS
+  - HTML
 #### Data Base
 - PostgreSQ
 - SQL
