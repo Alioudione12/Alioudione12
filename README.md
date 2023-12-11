@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Aliou Dione
-I am an enthusiastic Software engineer | Project management | Scrum/agile | Mobile application.
+I am an enthusiastic Software engineer | Project management | Scrum/agile | Mobile application.<br>
 who loves working on diverse products and making the users enjoy the product more and more
-
-React, including JSX, props, state and styles
 
 
 > [!important]
